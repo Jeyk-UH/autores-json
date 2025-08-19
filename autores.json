@@ -1,8 +1,8 @@
 {
   "autores": [
     {
-      "id": 1,
-      "nombre": "Arturo Oviedo",
+    "id": 1,
+    "nombre": "Arturo Oviedo",
     "cedula": "2-0809-0798",
     "correo": "arturo.oviedo2000@gmail.com",
     "foto": "https://raw.githubusercontent.com/Jeyk-UH/autores-json/main/img/arturo.jpg",
@@ -10,8 +10,8 @@
     "pasion": "Desarrollo web y diseño UI/UX"
     },
     {
-      "id": 2,
-      "nombre": "Jeyko Ubau H.",
+    "id": 2,
+    "nombre": "Jeyko Ubau H.",
     "cedula": "5-0424-0978",
     "correo": "jeykoubau@hotmail.com",
     "foto": "https://raw.githubusercontent.com/Jeyk-UH/autores-json/main/img/jeyko.jpg",
