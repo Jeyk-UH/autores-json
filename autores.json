@@ -3,7 +3,7 @@
     "nombre": "Arturo Oviedo",
     "cedula": "2-0809-0798",
     "correo": "juan.perez@email.com",
-    "foto": "https://tu-repo.github.io/img/juan.jpg",
+    "foto": "https://raw.githubusercontent.com/Jeyk-UH/autores-json/main/img/arturo.jpg",
     "especialidad": "Ingeniería del Software",
     "pasion": "Desarrollo web y diseño UI/UX"
   },
@@ -11,7 +11,7 @@
     "nombre": "Jeyko Ubau H.",
     "cedula": "5-0424-0978",
     "correo": "jeykoubau@hotmail.com",
-    "foto": "https://tu-repo.github.io/img/maria.jpg",
+    "foto": "https://raw.githubusercontent.com/Jeyk-UH/autores-json/main/img/jeyko.jpg",
     "especialidad": "Ingeniería del Software",
     "pasion": "Educación tecnológica, redes y desarrllo"
   }
